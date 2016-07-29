@@ -1,0 +1,15 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+*/settings.py
+~/miniLab4/settings.py
+/miniLab4/settings.py
+~/settings.py
+/settings.py
+*/miniLab4/settings.py
+settings.py
+miniLab4/settings.py
+
